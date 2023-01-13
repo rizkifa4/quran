@@ -1,0 +1,1 @@
+Sebuah website yang berisi daftar Ayat-ayat Al-Qur'an beserta terjemahannya.
